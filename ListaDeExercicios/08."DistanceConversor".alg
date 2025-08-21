@@ -1,7 +1,7 @@
 algoritmo "DistanceConversor"
 // Disciplina  :  [Linguagem e Lógica de Programação]
 // Professor   : [Nome do Professor]
-// Descrição   : Desenvolva um programa que leia uma distância em metros  
+// Descrição   : 8) Desenvolva um programa que leia uma distância em metros  
 //               e mostre os valores relativos em outras medidas.
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : DATA_ATUAL/MES_ATUAL/ANO_ATUAL

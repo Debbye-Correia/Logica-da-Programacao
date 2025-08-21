@@ -1,7 +1,7 @@
 algoritmo "DollarConversor"
 // Disciplina  :  [Linguagem e Lógica de Programação]
 // Professor   : [Nome do Professor]
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   : 9) Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$) e mostre quantos dólares ela pode comprar. Considere US$1,00 = R$3,45.
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : DATA_ATUAL/MES_ATUAL/ANO_ATUAL
 var

@@ -1,7 +1,8 @@
 algoritmo "Calculo"
 // Disciplina  :  [Linguagem e Lógica de Programação]
 // Professor   : [Nome do Professor]
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   : 4) Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório entre eles.
+//              5) Faça um programa que leia as duas notas de um aluno em uma matéria e mostre na tela a sua média na disciplina.
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : DATA_ATUAL/MES_ATUAL/ANO_ATUAL
 var

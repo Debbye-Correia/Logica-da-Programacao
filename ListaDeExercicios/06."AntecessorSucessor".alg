@@ -1,7 +1,7 @@
 algoritmo "AntecessorSucessor"
 // Disciplina  :  [Linguagem e Lógica de Programação]
 // Professor   : [Nome do Professor]
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   : 6) Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : DATA_ATUAL/MES_ATUAL/ANO_ATUAL
 var

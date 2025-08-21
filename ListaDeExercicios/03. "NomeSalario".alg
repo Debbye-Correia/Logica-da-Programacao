@@ -1,7 +1,7 @@
 algoritmo "NomeSalario"
 // Disciplina  :  [Linguagem e Lógica de Programação]
 // Professor   : [Nome do Professor]
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   : 3) Crie um programa que leia o nome e o salário de um funcionário, mostrando no final uma mensagem.
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : DATA_ATUAL/MES_ATUAL/ANO_ATUAL
 var
