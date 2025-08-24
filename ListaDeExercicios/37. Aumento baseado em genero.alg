@@ -1,11 +1,6 @@
 algoritmo "Aumento baseado em genero"
 // Disciplina  :  [Linguagem e Lógica de Programação]
-// Professor   : [Nome do Professor]
-// Descrição   : 
-//      37) Uma empresa precisa reajustar o salário dos seus funcionários, dando um
-//      aumento de acordo com alguns fatores. Faça um programa que leia o salário atual,
-//      o gênero do funcionário e há quantos anos esse funcionário trabalha na empresa.
-//      No final, mostre o seu novo salário, baseado na tabela a seguir:
+// Descrição   : 37) Uma empresa precisa reajustar o salário dos seus funcionários, dando um aumento de acordo com alguns fatores. Faça um programa que leia o salário atual, o gênero do funcionário e há quantos anos esse funcionário trabalha na empresa. No final, mostre o seu novo salário, baseado na tabela a seguir:
 //      - Mulheres
 //          - menos de 15 anos de empresa: +5%
 //          - de 15 até 20 anos de empresa: +12%
@@ -14,15 +9,12 @@ algoritmo "Aumento baseado em genero"
 //          - menos de 20 anos de empresa: +3%
 //          - de 20 até 30 anos de empresa: +13%
 //          - mais de 30 anos de empresa: +25%
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : DATA_ATUAL/MES_ATUAL/ANO_ATUAL
+// Autor(a)    : DEBORA DA SILVA CORREIA
+// Data atual  : 24/08/2025
 var
-
-genero: caractere
-sal1, sal2, temp: real
-
+    genero: caractere
+    sal1, sal2, temp: real
 inicio
-
     escreva("Genero do funcionario [F/M]: ")
     leia(genero)
     escreva ("Salario atual: R$")
@@ -56,7 +48,4 @@ inicio
             fimse
         fimse    
     fimse
-
-    
-
 fimalgoritmo

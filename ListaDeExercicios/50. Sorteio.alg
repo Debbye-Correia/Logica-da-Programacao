@@ -4,10 +4,8 @@ algoritmo "50 sorteio"
 // a) Quais foram os números sorteados
 // b) Quantos números estão acima de 5
 // c) Quantos números são divisíveis por 3
-
 // Autor(a)    : DEBORA DA SILVA CORREIA
 // Data atual  : 24/08/2025
-
 var
     S, num, maior5, div3: inteiro
     //s: numero de sorteios, num: numeros sorteados, maior5: numeros maiores que 5, div3: numeros divisiveis por 3
