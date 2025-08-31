@@ -42,7 +42,7 @@ var
         se (jogador="x") entao
             jogador<-"o"
         senao
-            jogador="x"
+            jogador<-"x"
         fimse
     fimprocedimento
     // Funcao para testar as possibilidades de jogos ganhos, ou empate por velha, para finalizar o jogo quando não houver mais opções
@@ -60,7 +60,7 @@ var
         FimPara
         // Jogo ganho em coluna
         Para c de 1 ate 3 faca
-            Se (m[l,c] = m[l,c]) e (m[l,c] = m[l,c]) entao
+            Se (m[1,c] = m[2,c]) e (m[2,c] = m[3,c]) entao
                 terminou <- verdadeiro
             FimSe
         FimPara
